@@ -1,0 +1,9 @@
+crewai
+litellm
+python-dotenv
+chardet
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
